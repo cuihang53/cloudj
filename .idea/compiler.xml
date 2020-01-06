@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="config-server" />
+        <module name="ribbon-consumer" />
+        <module name="service-consumer" />
+        <module name="cloud-zuul" />
+        <module name="service-provider-1" />
+        <module name="config-server1" />
+        <module name="ribbon-provider" />
+        <module name="service-provider" />
+        <module name="config-client" />
+        <module name="server-sleuth" />
+        <module name="hystrix-dashboard-turbine" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-zuul" target="1.8" />
+      <module name="cloudj" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server1" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard-turbine" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
+      <module name="ribbon-provider" target="1.8" />
+      <module name="server-sleuth" target="1.8" />
+      <module name="service-consumer" target="1.8" />
+      <module name="service-provider" target="1.8" />
+      <module name="service-provider-1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-zuul" options="-parameters" />
+      <module name="cloudj" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-server1" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="hystrix-dashboard-turbine" options="-parameters" />
+      <module name="ribbon-consumer" options="-parameters" />
+      <module name="ribbon-provider" options="-parameters" />
+      <module name="server-sleuth" options="-parameters" />
+      <module name="service-consumer" options="-parameters" />
+      <module name="service-provider" options="-parameters" />
+      <module name="service-provider-1" options="-parameters" />
+    </option>
+  </component>
+</project>

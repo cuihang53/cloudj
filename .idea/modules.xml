@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" filepath="$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudj.iml" filepath="$PROJECT_DIR$/cloudj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server1/config-server1.iml" filepath="$PROJECT_DIR$/config-server1/config-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-provider/ribbon-provider.iml" filepath="$PROJECT_DIR$/ribbon-provider/ribbon-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-sleuth/server-sleuth.iml" filepath="$PROJECT_DIR$/server-sleuth/server-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/service-provider/service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider-1/service-provider-1.iml" filepath="$PROJECT_DIR$/service-provider-1/service-provider-1.iml" />
+    </modules>
+  </component>
+</project>
